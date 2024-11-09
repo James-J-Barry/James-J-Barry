@@ -1,10 +1,4 @@
 ## James Barry 
 
-Hi!  I am currently an undergraduate student at the University of Maryland, College park, majoring in computer sciene and mathematics. Go Terps!
-
-I am on GitHub to organise my code, find inspiration, and eventually build my career.
-
-I am very interested in topics such as quantum computing and computing theory, and enjoy working and collaborating on personal coding projects.
-
-I am always looking for oppurtunities!
+Currently pursuing a Bachelor of Science in Computer Science at the University of Maryland, I'm honing organizational skills and a penchant for tech problem-solving. Armed with a track record of academic excellence and community engagement, I am driven to make a meaningful impact in the tech landscape.
 
